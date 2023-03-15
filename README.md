@@ -4,7 +4,7 @@ Este é um projeto de React feito utilizado [Vite](https://vitejs.dev)
 
 O projeto é basicamente uma aplicação React simples com roteamento de páginas usando a biblioteca React Router Dom. O objetivo do projeto é mais para praticar os conceitos de rotas em React.  
 
-[![Ver projeto no CodeSandBox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/codesandbox-template-vite-react/main)
+[Ver projeto no CodeSandbox](https://codesandbox.io/p/github/codesandbox/codesandbox-template-vite-react/main)
 
 
 ## Recursos 

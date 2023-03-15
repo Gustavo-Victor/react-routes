@@ -1,12 +1,13 @@
-# Vite + React
+# React Routes
 
-This is a [Vite](https://vitejs.dev) project together with React.
+Este é um projeto de React feito utilizado [Vite](https://vitejs.dev) 
 
-[![Edit in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/codesandbox-template-vite-react/main)
+O projeto é basicamente uma aplicação React simples com roteamento de páginas usando a biblioteca React Router Dom. O objetivo do projeto é mais para praticar os conceitos de rotas em React.  
 
-[Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
+[![Ver projeto no CodeSandBox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/codesandbox-template-vite-react/main)
 
-## Resources
+
+## Recursos 
 
 - [CodeSandbox — Docs](https://codesandbox.io/docs/projects)
 - [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)

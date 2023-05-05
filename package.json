@@ -1,11 +1,11 @@
 {
   "name": "react-routes",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -17,7 +17,6 @@
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.0",
-    "typescript": "^4.6.4",
     "react-router-dom": "^6.9.0",
     "sass": "^1.59.2",
     "vite": "^3.0.0"
